@@ -1,0 +1,13 @@
+.card{
+    display: flex;
+    flex-direction:column;
+   
+    padding: 5px 5px;
+    margin: 5px;
+}
+.card label{
+    font-weight: bold;
+}
+.card div{
+    text-transform: uppercase;
+}
