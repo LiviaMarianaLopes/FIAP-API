@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Person from "@/componentes/Person";
-
 interface Item{
   name: string;
   address: string;
